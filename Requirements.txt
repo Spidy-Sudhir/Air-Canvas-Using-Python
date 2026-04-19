@@ -1,3 +1,4 @@
+python libraries required: 
 opencv-python
 numpy
 mediapipe==0.10.8
