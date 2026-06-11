@@ -52,3 +52,6 @@ Raise **two fingers (index + middle)** to select:
 ## 📦 Installation
 
 ### 1️⃣ Clone or download the repository
+
+
+
